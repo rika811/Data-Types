@@ -1,3 +1,5 @@
+# Structures and Unions
+
 What is a Structure in C?
 
 A Structure is a type of data that is user-defined. It is available in the C programming language that allows a user to combine together logically related data items of various data types. Structures basically represent a record. All of its elements get stored in the contiguous memory locations. A Structure type- the Variables- can store more than one data item from raging data types all under one name.
