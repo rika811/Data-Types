@@ -1,7 +1,9 @@
 What is a Structure in C?
+
 A Structure is a type of data that is user-defined. It is available in the C programming language that allows a user to combine together logically related data items of various data types. Structures basically represent a record. All of its elements get stored in the contiguous memory locations. A Structure type- the Variables- can store more than one data item from raging data types all under one name.
 
 Syntax of Declaring a Structure
+
 struct [structure name]
 
 {
@@ -17,9 +19,11 @@ type member_n;
 };
 
 What Is a Union?
+
 A Union is a type of data that is user-defined. It is just like the structure. The Union combines various objects of different sorts and sizes together. A user can define a Union using many members, but only one of them holds a value at any given time. It provides you with an efficient way of using a single memory location for various purposes. Thus, varying objects can share a similar location.
 
 Syntax of Declaring a Union
+
 union [union name]
 
 {
